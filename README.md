@@ -1,12 +1,18 @@
-- [tailwindcss](https://tailwindcss.com/)
+# Crypto Dashboard
+
+##### App link **[here]()**
+
+### Tools
+- [Tailwindcss](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-
+### Scripts
 - `npm install`.
-- `npm run dev` dev local server
-- `npm run build` compile to`dist`.
-- `npm run serve` local server for build
-- `npm run pages` déploie le contenu du dossier `dist` sur GitHub Pages.
+- `npm run dev` Dev local server.
+- `npm run build` Compile to`dist`.
+- `npm run serve` Local server for build.
+- `npm run pages` Deploy content from `dist` to GitHub Pages.
 
 
 
