@@ -1,6 +1,6 @@
 # DeFi Dashboard
 
-#### App link **[HERE]()**
+#### App link: (*link here soon*)
 
 ### Tools
 - [Tailwindcss](https://tailwindcss.com/)
